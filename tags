@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Array_Count	/home/msk/Workspaces/Screen/globalTypes.h	14;"	d
+GLX_MAJOR_VERSION	/home/msk/Workspaces/Screen/lnx_platform.h	8;"	d
+GLX_MINOR_VERSION	/home/msk/Workspaces/Screen/lnx_platform.h	9;"	d
+PREFERED_WINDOW_HEIGHT	/home/msk/Workspaces/Screen/globalTypes.h	17;"	d
+PREFERED_WINDOW_WIDTH	/home/msk/Workspaces/Screen/globalTypes.h	16;"	d
+WINDOW_NAME	/home/msk/Workspaces/Screen/globalTypes.h	18;"	d
+g_window	/home/msk/Workspaces/Screen/lnx_platform.cpp	/^static Window* g_window;$/;"	v	file:
+int16	/home/msk/Workspaces/Screen/globalTypes.h	/^typedef int16_t int16;$/;"	t
+int32	/home/msk/Workspaces/Screen/globalTypes.h	/^typedef int32_t int32;$/;"	t
+int64	/home/msk/Workspaces/Screen/globalTypes.h	/^typedef int64_t int64;$/;"	t
+main	/home/msk/Workspaces/Screen/lnx_platform.cpp	/^int main(int argc, char** argv){$/;"	f	signature:(int argc, char** argv)
+real32	/home/msk/Workspaces/Screen/globalTypes.h	/^typedef float real32;$/;"	t
+real64	/home/msk/Workspaces/Screen/globalTypes.h	/^typedef double real64;$/;"	t
+uint16	/home/msk/Workspaces/Screen/globalTypes.h	/^typedef uint16_t uint16;$/;"	t
+uint32	/home/msk/Workspaces/Screen/globalTypes.h	/^typedef uint32_t uint32;$/;"	t
+uint64	/home/msk/Workspaces/Screen/globalTypes.h	/^typedef uint64_t uint64;$/;"	t
